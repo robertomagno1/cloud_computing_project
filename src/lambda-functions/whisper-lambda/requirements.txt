@@ -1,0 +1,12 @@
+numba
+boto3==1.34.131
+torch==2.0.1+cpu
+torchaudio==2.0.2+cpu
+numpy==1.24.3
+tqdm
+more-itertools
+tiktoken
+triton>=2.0.0; platform_machine == "x86_64" and (sys_platform == "linux" or sys_platform == "linux2")
+git+https://github.com/openai/whisper.git
+
+
