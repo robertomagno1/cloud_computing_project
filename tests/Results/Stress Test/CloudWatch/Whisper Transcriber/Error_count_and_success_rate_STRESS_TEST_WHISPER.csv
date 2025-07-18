@@ -1,0 +1,17 @@
+Id,errors,availability
+StatusCode,Complete,Complete
+Messages,,
+Full label,us-east-1:AWS/Lambda FunctionName:whisperTranscriber Errors Sum 60,us-east-1:Success rate (%)
+Label,Errors,Success rate (%)
+2025/07/18 01:20:00,0,100
+2025/07/18 01:21:00,0,100
+2025/07/18 01:22:00,0,100
+2025/07/18 01:23:00,0,100
+2025/07/18 01:24:00,0,100
+2025/07/18 01:25:00,0,100
+2025/07/18 01:26:00,0,100
+2025/07/18 01:27:00,0,100
+2025/07/18 01:28:00,0,100
+2025/07/18 01:29:00,0,100
+2025/07/18 01:30:00,0,100
+2025/07/18 01:31:00,0,100

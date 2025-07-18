@@ -1,0 +1,17 @@
+Id,metric_alias_widget_1654_0
+StatusCode,Complete
+Messages,
+Full label,us-east-1:AWS/Lambda FunctionName:api-handler ConcurrentExecutions Maximum 60
+Label,Total concurrent executions
+2025/07/18 01:20:00,3
+2025/07/18 01:21:00,2
+2025/07/18 01:22:00,2
+2025/07/18 01:23:00,2
+2025/07/18 01:24:00,3
+2025/07/18 01:25:00,4
+2025/07/18 01:26:00,3
+2025/07/18 01:27:00,2
+2025/07/18 01:28:00,3
+2025/07/18 01:29:00,3
+2025/07/18 01:30:00,3
+2025/07/18 01:31:00,4

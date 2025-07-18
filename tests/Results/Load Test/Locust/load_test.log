@@ -1,0 +1,22 @@
+nohup: ignoring input
+[2025-07-17 21:43:10,792] ip-172-31-24-127/INFO/locust.main: Starting Locust 2.34.0
+[2025-07-17 21:43:10,793] ip-172-31-24-127/WARNING/locust.main: Python 3.9 support is deprecated and will be removed soon
+[2025-07-17 21:43:10,793] ip-172-31-24-127/INFO/locust.main: Starting web interface at http://0.0.0.0:8089, press enter to open your default browser.
+[2025-07-17 21:43:31,766] ip-172-31-24-127/INFO/locust.runners: Shape test starting.
+[2025-07-17 21:43:31,766] ip-172-31-24-127/INFO/locust.runners: Shape worker starting
+[2025-07-17 21:43:31,767] ip-172-31-24-127/INFO/locust.runners: Shape test updating to 5 users at 10.00 spawn rate
+[2025-07-17 21:43:31,767] ip-172-31-24-127/INFO/locust.runners: Ramping to 5 users at a rate of 10.00 per second
+[2025-07-17 21:43:31,768] ip-172-31-24-127/INFO/locust.runners: All users spawned: {"AudioTranscriptionUser": 5} (5 total users)
+[2025-07-17 21:48:32,088] ip-172-31-24-127/INFO/locust.runners: Shape test updating to 15 users at 10.00 spawn rate
+[2025-07-17 21:48:32,088] ip-172-31-24-127/INFO/locust.runners: Ramping to 15 users at a rate of 10.00 per second
+[2025-07-17 21:48:32,090] ip-172-31-24-127/INFO/locust.runners: All users spawned: {"AudioTranscriptionUser": 15} (15 total users)
+[2025-07-17 21:53:32,392] ip-172-31-24-127/INFO/locust.runners: Shape test updating to 30 users at 10.00 spawn rate
+[2025-07-17 21:53:32,392] ip-172-31-24-127/INFO/locust.runners: Ramping to 30 users at a rate of 10.00 per second
+[2025-07-17 21:53:33,393] ip-172-31-24-127/INFO/locust.runners: All users spawned: {"AudioTranscriptionUser": 30} (30 total users)
+[2025-07-17 21:58:32,713] ip-172-31-24-127/INFO/locust.runners: Shape test updating to 15 users at 10.00 spawn rate
+[2025-07-17 21:58:32,714] ip-172-31-24-127/INFO/locust.runners: Ramping to 15 users at a rate of 10.00 per second
+[2025-07-17 21:58:33,715] ip-172-31-24-127/INFO/locust.runners: All users spawned: {"AudioTranscriptionUser": 15} (15 total users)
+[2025-07-17 22:03:32,016] ip-172-31-24-127/INFO/locust.runners: Shape test updating to 5 users at 10.00 spawn rate
+[2025-07-17 22:03:32,016] ip-172-31-24-127/INFO/locust.runners: Ramping to 5 users at a rate of 10.00 per second
+[2025-07-17 22:03:32,017] ip-172-31-24-127/INFO/locust.runners: All users spawned: {"AudioTranscriptionUser": 5} (5 total users)
+[2025-07-17 22:08:32,318] ip-172-31-24-127/INFO/locust.runners: Shape test stopping

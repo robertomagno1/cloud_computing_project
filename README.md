@@ -35,7 +35,7 @@ cloud_computing_project/
 │           ├── app.py             # Whisper transcription Lambda function
 │           ├── Dockerfile         # Container image for Whisper Lambda
 │           └── requirements.txt   # Python dependencies for Whisper
-├── docs/                          # Documentation and performance evaluation
+├── tests/                         # Performance tests code and results
 └── README.md                      # This file
 ```
 
